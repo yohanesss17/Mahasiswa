@@ -1,0 +1,5 @@
+org\example\domain\service\MahasiswaService.class
+org\example\domain\repository\MahasiswaRepo.class
+org\example\Application.class
+org\example\domain\entity\Mahasiswa.class
+org\example\MahasiswaController.class
